@@ -1,0 +1,5 @@
+name: EasyBoat
+version: '${project.version}'
+main: me.architetto.easyboat.EasyBoat
+api-version: 1.18
+authors: [ Architetto ]
